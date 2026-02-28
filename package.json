@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "pinia": "^3.0.4"
+  },
+  "devDependencies": {
+    "eslint": "^10.0.2",
+    "eslint-plugin-vue": "^10.8.0"
+  }
+}
